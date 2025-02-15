@@ -1,18 +1,9 @@
 module.exports = {
 
-//---------------------------------------------------------------------
-// Action Name
-//
-// This is the name of the action displayed in the editor.
-//---------------------------------------------------------------------
 
 name: "Add Embed Field",
 
-//---------------------------------------------------------------------
-// Action Section
-//
-// This is the section the action will fall into.
-//---------------------------------------------------------------------
+//commit this rn
 
 section: "Messaging",
 
